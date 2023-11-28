@@ -1,0 +1,7 @@
+8. CSS pseudo classes
+    - selector:Pseudo-class{
+        property:value;
+    }
+9.Grid
+10. linear-gradient:    linear-gradient(direction,color-stop1,color-stop2,..)
+11
